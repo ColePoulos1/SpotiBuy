@@ -1,0 +1,20 @@
+@import "https://sp-bootstrap.global.ssl.fastly.net/8.0.0/sp-bootstrap.min.css";
+@import "//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css";
+
+body {
+    background-color: #181a1b;
+    color: white;
+}
+
+html, body {
+    height: 100%;
+}
+  
+#wrap {
+    min-height: 100%;
+}
+  
+#main {
+    overflow:auto;
+    padding-bottom:120px; /* this needs to be bigger than footer height*/
+}
